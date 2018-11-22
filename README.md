@@ -7,7 +7,7 @@
 ## 安装和使用SDK
 
 ### 安装
-执行上面命令后，会生成三个目录，其中一个是dist目录，在这个目录下就有xxx.whl文件
+执行上面命令后，会生成build、condihello.egg-info 、dist三个目录，在dist目录下就有xxx.whl文件
 ```python
 pip install xxx.whl
 ```
