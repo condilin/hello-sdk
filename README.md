@@ -2,7 +2,7 @@
 
 - 生成sdk
 - 创建纯 Python 或者平台 Wheels 的命令是：python setup.py bdist_wheel
-- 创建源发布文件.tar.gz命令是：python setup.py sdist
+- 创建源代码发布文件.tar.gz命令是：python setup.py sdist
 
 ## 安装和使用SDK
 
